@@ -27,7 +27,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
-    "build": "node api.js && expo-module build",
+    "build": "expo-module build",
     "clean": "expo-module clean",
     "lint": "expo-module lint",
     "test": "expo-module test",
